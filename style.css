@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxNoticia{
+    margin: 10px 0px;
+    overflow: auto;
+    color: gray;
+    clear: both;
+
+}
+
+.boxNoticia img{
+    float: left;
+    margin-right: 10px;
+    width: 180px;
+}
+
+.boxNoticia.titulo{
+    font-weight: 700;
+}
+
+.boxNoticia.creditos{
+    color:red;
+}
+
+
